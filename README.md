@@ -7,7 +7,7 @@
 
 #### Project Screenshot
 
-![scheduler-screenshot.png](Develop/WorkDayScheduler.png)
+![scheduler-screenshot.png](Develop/Challenge-5-Day-Planner.png)
 
 
 
